@@ -1,9 +1,9 @@
 # Viterbi
 Implementation of the viterbi algorithm using the occasionally dishonest casino example from the Durbin book.
 ## Usage
-´´´
+```
 python viterbi.py
-´´´
+```
 ## Example
 Example from the durbin book.
 ``` console 
